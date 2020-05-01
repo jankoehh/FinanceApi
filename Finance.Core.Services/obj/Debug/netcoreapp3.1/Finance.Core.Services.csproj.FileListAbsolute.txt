@@ -1,0 +1,8 @@
+c:\daten\Workspace_web\Finance\Finance.Core.Services\bin\Debug\netcoreapp3.1\Finance.Core.Services.deps.json
+c:\daten\Workspace_web\Finance\Finance.Core.Services\bin\Debug\netcoreapp3.1\Finance.Core.Services.dll
+c:\daten\Workspace_web\Finance\Finance.Core.Services\obj\Debug\netcoreapp3.1\Finance.Core.Services.csprojAssemblyReference.cache
+c:\daten\Workspace_web\Finance\Finance.Core.Services\obj\Debug\netcoreapp3.1\Finance.Core.Services.AssemblyInfoInputs.cache
+c:\daten\Workspace_web\Finance\Finance.Core.Services\obj\Debug\netcoreapp3.1\Finance.Core.Services.AssemblyInfo.cs
+c:\daten\Workspace_web\Finance\Finance.Core.Services\bin\Debug\netcoreapp3.1\Finance.Core.Services.pdb
+c:\daten\Workspace_web\Finance\Finance.Core.Services\obj\Debug\netcoreapp3.1\Finance.Core.Services.dll
+c:\daten\Workspace_web\Finance\Finance.Core.Services\obj\Debug\netcoreapp3.1\Finance.Core.Services.pdb
